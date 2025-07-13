@@ -1,0 +1,4 @@
+Receipt ID: demo123
+Issue: asdfg
+Time: 2025-07-13T10:15:07.821Z
+
