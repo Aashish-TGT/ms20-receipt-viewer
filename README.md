@@ -107,3 +107,7 @@ or iframe embed
 Developed by [Aashish]
 intern in Tgt's
 For: Digital Receipts Platform (Microservices Architecture)
+
+## 📄 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more info.
